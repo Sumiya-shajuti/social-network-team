@@ -6,13 +6,11 @@ function App() {
   return (
     <div className="App">
       {/* App body */}
-         {/* Sidebar */}
-         <div className="app_body">
-         <Sidebar/>
-         </div>
-        
-         {/* Feed */}
-       
+      {/* Sidebar */}
+      <div className="app_body">
+        <Sidebar />
+      </div>
+      {/* Feed */}
     </div>
   );
 }
